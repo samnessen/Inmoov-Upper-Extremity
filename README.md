@@ -1,14 +1,14 @@
 # Inmoov-Upper-Extremity
 SELF CONTROLLED UPPER EXTREMITY FOR EXPLORATION OF OPEN SOURCE PROSTHESIS 
 
-This code is intended to explore the open source robot INMOOV as its upper extremity.
-Various methods of controlling the servos are located both on robots arm and glove.
-A schematic has been provided for replication and exploration. 
-Arduino Nano micro controller and Arduino IDE 1.8.7 was used for this code.
+This code is intended to explore the open source robot INMOOV using its right upper extremity.
+Various methods of controlling the servos i.e. actuation of limbs and fingers are located 
+on the bot and control glove. A schematic has been provided for replication and exploration. 
+Arduino Nano and Arduino IDE 1.8.7 was used with this code.
 
-This project was done as a Undergarde in the Electronics Engeneering Technology at Quinsigamond Community College
-with Advisor James Heffernan and Professor Michael Meagher
+This project was done as a Undergarde in the Electronics Engeneering Technology -Mechatronics at Quinsigamond Community College
+with Professor/Advisor James Heffernan and Professor Michael Meagher
 
-Various other codes from other sources was used to explore various methods of controll, 
+Various other codes from other sources was used to explore various methods of control, 
 but may not be included in the final code. For example, HC-05 bluetooth code was not used in main.
 Thank you to all who contributed and maid code available for this project.
