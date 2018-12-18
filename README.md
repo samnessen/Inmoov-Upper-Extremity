@@ -6,9 +6,11 @@ Various methods of controlling the servos i.e. actuation of limbs and fingers ar
 on the bot and control glove. A schematic has been provided for replication and exploration. 
 Arduino Nano and Arduino IDE 1.8.7 was used with this code.
 
-This project was done as a Undergarde in the Electronics Engeneering Technology -Mechatronics at Quinsigamond Community College
+This project was done as a Undergraduate in the Electronics Engineering Technology -Mechatronics at Quinsigamond Community College
 with Professor/Advisor James Heffernan and Professor Michael Meagher
 
-Various other codes from other sources was used to explore various methods of control, 
-but may not be included in the final code. For example, HC-05 bluetooth code was not used in main.
+Various other codes from other sources where used to explore various methods of control, 
+but may not be included in the runner. For example, HC-05 blue tooth code was not used in main.
 Thank you to all who contributed and maid code available for this project.
+
+[FOR MAIN CODE TO BE IMPLEMENTED ON ARDUINO NANO](INMOOV_NANO_RUNNER/INMOOV_NANO_RUNNER.INO)
