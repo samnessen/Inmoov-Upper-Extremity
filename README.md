@@ -13,4 +13,4 @@ Various other codes from other sources where used to explore various methods of 
 but may not be included in the runner. For example, HC-05 blue tooth code was not used in main.
 Thank you to all who contributed and maid code available for this project.
 
-[FOR MAIN CODE TO BE IMPLEMENTED ON ARDUINO NANO](INMOOV_NANO_RUNNER/INMOOV_NANO_RUNNER.INO)
+[FOR MAIN CODE TO BE IMPLEMENTED ON ARDUINO NANO](INMOOV_NANO_RUNNER.INO)
