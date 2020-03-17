@@ -12,5 +12,3 @@ with Professor/Advisor James Heffernan and Professor Michael Meagher
 Various other codes from other sources where used to explore various methods of control, 
 but may not be included in the runner. For example, HC-05 blue tooth code was not used in main.
 Thank you to all who contributed and maid code available for this project.
-
-[FOR MAIN CODE TO BE IMPLEMENTED ON ARDUINO NANO](INMOOV_NANO_RUNNER.INO)
